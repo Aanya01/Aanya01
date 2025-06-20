@@ -1,4 +1,6 @@
-<h1 align="center">Hey 👋, I'm Aanya Agrawal</h1>
+<h1 align = "left"> Aanya Agrawal </h1>
+<h1 align="center">Hello 👋, I'm Aanya 
+Agrawal</h1>
 
 <h3 align="center">An Aspiring Software Developer from INDIA </h3>
 
