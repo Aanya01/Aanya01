@@ -1,4 +1,4 @@
-<h1 align = "left"> Aanya Agrawal </h1>
+
 <h1 align="center">Hello 👋, I'm Aanya 
 Agrawal</h1>
 
@@ -11,7 +11,7 @@ Agrawal</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aanya01&label=Profile%20views&color=0e75b6&style=flat" alt="aanya01" /> </p>
 
-- 💬 Ask me about **C ,Java , SQL.**
+- 💬 Ask me about **C ,Java ,Kotlin,Android, SQL.**
 
 - 📫 How to reach me **aanyaagr09@gmail.com**
 
